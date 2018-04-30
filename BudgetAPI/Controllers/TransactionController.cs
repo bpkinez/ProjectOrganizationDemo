@@ -3,7 +3,7 @@ using BudgetApp.Core.Accounting;
 using BudgetApp.Models;
 using System.Collections.Generic;
 
-namespace BudgetApp.API.Controllers
+namespace BudgetApp.BudgetAPI.Controllers
 {
     [Produces("application/json")]
     [Route("api/transactions")]

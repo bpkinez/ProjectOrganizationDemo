@@ -1,5 +1,5 @@
 ﻿
-namespace BudgetApp.Core.Calculators
+namespace BudgetApp.Core.Accounting.Calculators
 {
     class SavingsRateCalculator
     {
